@@ -21,6 +21,10 @@ int main()
 {
 
     vector < vector<int>> dynamicMatrix;
+    
+    //int** = new * int[5]; 
+
+    //string parkingLot[4][5]; //STATIC 
 
     vector<int> row1;
     row1.push_back(1);
